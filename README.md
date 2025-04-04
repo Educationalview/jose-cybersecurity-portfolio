@@ -18,8 +18,14 @@ Welcome! This is my personal cybersecurity portfolio where I document my learnin
 
 I'm currently studying cybersecurity and working toward a professional career in the field. This portfolio is a work in progress and will grow as I continue to learn and apply what I know. Thanks for visiting!
 
-> _“Build in public, learn out loud.”_
+> _“Build, just build”_
 
 ---
 
 Feel free to star or follow along as I grow 🌱
+
+### 📺 YouTube Channel
+
+Check out my YouTube:  
+👉 [My YouTube Channel](https://www.youtube.com/@jass1559)
+
